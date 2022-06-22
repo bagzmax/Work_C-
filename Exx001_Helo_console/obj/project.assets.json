@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001\\Exx001.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001_Helo_console\\Exx001.csproj",
       "projectName": "Exx001",
-      "projectPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001\\Exx001.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001_Helo_console\\Exx001.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Downloads\\GIT\\work_home_c#\\Exampless\\Exx001_Helo_console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
